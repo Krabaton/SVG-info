@@ -4,7 +4,7 @@
 
 - [Книги и гайды](README.md#Книги-и-гайды)
 - [Статьи](README.md#Статьи)
-- [Библиотеки для анимации и работы с SVG](README.md#Библиотеки-для-анимации-и-работы-с-SVG)
+- [Библиотеки](README.md#Библиотеки)
 - [Видео](README.md#Видео)
 - [Инструменты](README.md#Инструменты)
 - [Разное](README.md#Разное)
@@ -60,7 +60,7 @@
 1.  [Building a responsive image](https://medium.com/9elements/building-a-responsive-image-e4c6229fa1f6)
 1.  [Managing SVG Interaction With The Pointer Events Property](https://www.smashingmagazine.com/2018/05/svg-interaction-pointer-events-property/)
 
-## Библиотеки для анимации и работы с SVG
+## Библиотеки
 
 0.  [D3.js](https://d3js.org/)
     > король визуализации данных
