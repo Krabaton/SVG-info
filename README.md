@@ -59,6 +59,7 @@
 1.  [Coloring SVGs in CSS Background Images](https://codepen.io/noahblon/post/coloring-svgs-in-css-background-images)
 1.  [Building a responsive image](https://medium.com/9elements/building-a-responsive-image-e4c6229fa1f6)
 1.  [Managing SVG Interaction With The Pointer Events Property](https://www.smashingmagazine.com/2018/05/svg-interaction-pointer-events-property/)
+1.  [Using Custom Fonts With SVG in an Image Tag](https://css-tricks.com/using-custom-fonts-with-svg-in-an-image-tag/)
 
 ## Библиотеки
 
