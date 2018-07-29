@@ -61,6 +61,8 @@
 1.  [Managing SVG Interaction With The Pointer Events Property](https://www.smashingmagazine.com/2018/05/svg-interaction-pointer-events-property/)
 1.  [Using Custom Fonts With SVG in an Image Tag](https://css-tricks.com/using-custom-fonts-with-svg-in-an-image-tag/)
 1.  [The guide to integrating and styling icon systems — SVG sprites, SVG symbols and icon fonts](https://blog.nucleoapp.com/the-guide-to-integrating-and-styling-icon-systems-svg-sprites-svg-symbols-and-icon-fonts-da7c424dac1b)
+1.  [Инлайновые SVG и компоненты](https://blog.nucleoapp.com/the-guide-to-integrating-and-styling-icon-systems-inline-svg-and-icon-components-9ed234419166)
+1.  [SVG-спрайты, SVG-символы и иконочные шрифты](https://blog.nucleoapp.com/the-guide-to-integrating-and-styling-icon-systems-svg-sprites-svg-symbols-and-icon-fonts-da7c424dac1b)
 
 ## Библиотеки
 
